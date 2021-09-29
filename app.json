@@ -1,5 +1,5 @@
 {
-  "name": "goproxy server",
+  "name": "goptu",
   "description": "Deploy Goproxy to Heroku.",
   "keywords": ["Goproxy"],
   "env": {
